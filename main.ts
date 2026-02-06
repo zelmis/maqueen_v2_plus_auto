@@ -1,3 +1,6 @@
+/**
+ * ========================================
+ */
 // Funkcja TURBO - szybkie koła
 function turboMode () {
     normalOperation = false
@@ -141,13 +144,7 @@ function lightShow () {
  * ========================================
  */
 /**
- * ========================================
- */
-/**
  * KOD DLA AUTKA (Maqueen Plus V2)
- */
-/**
- * ========================================
  */
 /**
  * Zmienne globalne
